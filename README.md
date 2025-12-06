@@ -8,7 +8,9 @@
 <hr>
 
 <h2>Descripción General</h2>
-
+<p>
+Camila Silva, Joel Chico, Ricardo Piñango, Sebastian Rubio y Camilo Nuñez
+</p>
 <p>
 AppEmpresarial es una aplicación creada con .NET MAUI siguiendo una arquitectura sencilla basada en archivos
 <code>.xaml</code> y <code>.xaml.cs</code> sin utilizar MVVM. El objetivo del proyecto es comprender cómo construir interfaces,
