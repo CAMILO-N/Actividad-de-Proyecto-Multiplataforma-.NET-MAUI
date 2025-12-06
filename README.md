@@ -1,124 +1,194 @@
-AppEmpresarial – Aplicación Multiplataforma en .NET MAUI
+<h1 align="center">AppEmpresarial – Aplicación Multiplataforma en .NET MAUI</h1>
 
-AppEmpresarial es una aplicación desarrollada en .NET MAUI diseñada como un sistema empresarial básico para la gestión de información interna.
-Incluye módulos para:
+<p align="center">
+  Sistema empresarial básico desarrollado en .NET MAUI, con módulos de gestión, autenticación con SQLite
+  y navegación mediante NavigationPage.
+</p>
 
-- Gestión de productos
-- Gestión de clientes
-- Registro de ventas
-- Control de stock
-- Autenticación mediante base de datos SQLite
+<hr>
 
-La aplicación está construida sin patrones avanzados como MVVM, utilizando únicamente archivos .xaml y .xaml.cs para mantener una arquitectura simple y orientada a ejercicios académicos.
+<h2>Descripción General</h2>
 
----------------------------------------------------------------------
+<p>
+AppEmpresarial es una aplicación creada con .NET MAUI siguiendo una arquitectura sencilla basada en archivos
+<code>.xaml</code> y <code>.xaml.cs</code> sin utilizar MVVM. El objetivo del proyecto es comprender cómo construir interfaces,
+manejar navegación y trabajar con SQLite en aplicaciones multiplataforma.
+</p>
 
-1. Pantalla de Login
+<hr>
 
-La aplicación inicia con una pantalla de autenticación donde el usuario ingresa sus credenciales.
-La validación se realiza contra una base de datos SQLite local.
+<h2>Características Principales</h2>
 
-Usuario por defecto creado automáticamente:
+<ul>
+  <li>Pantalla de Login con validación en SQLite</li>
+  <li>Pantalla principal con navegación hacia los módulos</li>
+  <li>Módulos CRUD completos:
+    <ul>
+      <li>Productos</li>
+      <li>Clientes</li>
+      <li>Ventas</li>
+      <li>Stock</li>
+    </ul>
+  </li>
+  <li>Base de datos local con sqlite-net-pcl</li>
+  <li>Interfaz construida solo con XAML + Code-behind</li>
+</ul>
 
+<hr>
+
+<h2>Pantalla de Login</h2>
+
+<p>La app inicia solicitando usuario y contraseña. Las credenciales se validan contra SQLite.</p>
+
+<p><strong>Usuario por defecto:</strong></p>
+
+<pre>
 Usuario: admin
 Contraseña: 1234
+</pre>
 
-Si la validación es correcta, el usuario es dirigido a la pantalla principal.
+<p>Si las credenciales son correctas, el usuario navega a la pantalla principal.</p>
 
----------------------------------------------------------------------
+<hr>
 
-2. Pantalla Principal (MainPage)
+<h2>Pantalla Principal</h2>
 
-La pantalla principal muestra un saludo personalizado y botones para navegar hacia los módulos disponibles:
+<p>Incluye botones que permiten acceder a los módulos:</p>
 
-- Productos
-- Clientes
-- Ventas
-- Stock
+<ul>
+  <li>Gestión de Productos</li>
+  <li>Gestión de Clientes</li>
+  <li>Registro de Ventas</li>
+  <li>Gestión de Stock</li>
+</ul>
 
-La navegación se realiza mediante NavigationPage.
+<p>La navegación se realiza mediante:</p>
 
----------------------------------------------------------------------
+<pre><code>Navigation.PushAsync(new ProductosPage());</code></pre>
 
-3. Módulos de Gestión
+<hr>
 
-Cada módulo utiliza un archivo XAML para la interfaz y un archivo .xaml.cs para la lógica.
-Todos los módulos realizan operaciones CRUD básicas conectadas a SQLite.
+<h2>Módulos de Gestión</h2>
 
-3.1 Productos
-- Agregar productos (nombre y precio)
-- Mostrar lista de productos registrados
-- Eliminar productos mediante gesto Swipe
+<p>Cada módulo cuenta con su propio XAML y archivo .cs con operaciones CRUD conectadas a SQLite.</p>
 
-3.2 Clientes
-- Registrar nombre y correo electrónico
-- Mostrar lista de clientes
-- Eliminar clientes
+<h3>Productos</h3>
+<ul>
+  <li>Agregar productos (nombre y precio)</li>
+  <li>Listar productos</li>
+  <li>Eliminar productos mediante SwipeView</li>
+</ul>
 
-3.3 Ventas
-- Registrar producto vendido y total de la venta
-- Mostrar lista de ventas
-- Eliminar ventas registradas
+<h3>Clientes</h3>
+<ul>
+  <li>Agregar clientes (nombre y correo)</li>
+  <li>Listar clientes</li>
+  <li>Eliminar registros</li>
+</ul>
 
-3.4 Stock
-- Registrar elementos del inventario
-- Mostrar cantidades disponibles
-- Eliminar elementos del stock
+<h3>Ventas</h3>
+<ul>
+  <li>Registrar ventas</li>
+  <li>Listarlas</li>
+  <li>Eliminar ventas</li>
+</ul>
 
----------------------------------------------------------------------
+<h3>Stock</h3>
+<ul>
+  <li>Controlar inventario</li>
+  <li>Registrar artículos y cantidades</li>
+  <li>Eliminar registros</li>
+</ul>
 
-4. Base de Datos SQLite
+<hr>
 
-La aplicación utiliza la librería sqlite-net-pcl para gestionar almacenamiento local.
-Las tablas creadas automáticamente incluyen:
+<h2>Base de Datos SQLite</h2>
 
-- Usuarios
-- Productos
-- Clientes
-- Ventas
-- StockItem
+<p>La app utiliza <code>sqlite-net-pcl</code> para el manejo de almacenamiento local.</p>
 
-El archivo de base de datos se genera en:
+<p>Tablas generadas automáticamente:</p>
 
-FileSystem.AppDataDirectory/appempresarial.db3
+<ul>
+  <li>Usuarios</li>
+  <li>Productos</li>
+  <li>Clientes</li>
+  <li>Ventas</li>
+  <li>StockItem</li>
+</ul>
 
-La base se inicializa al iniciar la aplicación.
+<p>Ruta del archivo SQLite:</p>
 
----------------------------------------------------------------------
+<pre><code>FileSystem.AppDataDirectory/appempresarial.db3</code></pre>
 
-5. Layout y Estilos Utilizados
+<hr>
 
-La aplicación utiliza un diseño sencillo basado en VerticalStackLayout en todas las pantallas.
-Incluye estilos globales definidos en App.xaml y uso de CollectionView, Entry, Button y SwipeView para la interfaz.
+<h2>Layout y Estilos Utilizados</h2>
 
----------------------------------------------------------------------
+<p>El diseño se basa en <code>VerticalStackLayout</code> con un estilo global para botones definido en <code>App.xaml</code>.</p>
 
-6. Arquitectura de Navegación
+<pre><code>&lt;Color x:Key="PrimaryColor"&gt;#2563EB&lt;/Color&gt;
 
+&lt;Style TargetType="Button"&gt;
+    &lt;Setter Property="BackgroundColor" Value="{StaticResource PrimaryColor}" /&gt;
+    &lt;Setter Property="TextColor" Value="White" /&gt;
+    &lt;Setter Property="CornerRadius" Value="8" /&gt;
+    &lt;Setter Property="Padding" Value="10" /&gt;
+&lt;/Style&gt;
+</code></pre>
+
+<p>Se emplean los siguientes controles:</p>
+
+<ul>
+  <li>Entry</li>
+  <li>Button</li>
+  <li>CollectionView</li>
+  <li>SwipeView</li>
+</ul>
+
+<hr>
+
+<h2>Arquitectura de Navegación</h2>
+
+<pre>
 LoginPage
--> MainPage
-    -> ProductosPage
-    -> ClientesPage
-    -> VentasPage
-    -> StockPage
+  → MainPage
+      → ProductosPage
+      → ClientesPage
+      → VentasPage
+      → StockPage
+</pre>
 
----------------------------------------------------------------------
+<hr>
 
-7. Tecnologías utilizadas
+<h2>Tecnologías Utilizadas</h2>
 
-- .NET MAUI
-- C#
-- XAML
-- SQLite (sqlite-net-pcl)
-- Navegación mediante NavigationPage
-- Arquitectura sin MVVM
+<ul>
+  <li>.NET MAUI</li>
+  <li>C#</li>
+  <li>XAML</li>
+  <li>SQLite (sqlite-net-pcl)</li>
+  <li>NavigationPage</li>
+  <li>Code-behind sin MVVM</li>
+</ul>
 
----------------------------------------------------------------------
+<hr>
 
-8. Objetivo académico
+<h2>Objetivo Académico</h2>
 
-Este proyecto fue creado con fines educativos para demostrar el uso de múltiples componentes de .NET MAUI y SQLite en una arquitectura sencilla.
+<p>
+Este proyecto se desarrolló con fines educativos para practicar:
+</p>
 
----------------------------------------------------------------------
+<ul>
+  <li>Navegación en MAUI</li>
+  <li>Manejo de SQLite</li>
+  <li>Construcción de interfaces con XAML</li>
+  <li>Operaciones CRUD básicas</li>
+  <li>Estructuración simple sin patrones avanzados</li>
+</ul>
 
-FIN DEL ARCHIVO
+<hr>
+
+<h2>Créditos</h2>
+
+<p>Proyecto desarrollado como parte de la asignatura de Desarrollo Multiplataforma con .NET MAUI.</p>
