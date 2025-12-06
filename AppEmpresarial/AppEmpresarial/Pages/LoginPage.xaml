@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppEmpresarial.LoginPage"
+             Title="Inicio de Sesión">
+
+    <VerticalStackLayout Padding="30" Spacing="15">
+
+        <Label Text="Bienvenido"
+               FontSize="28"
+               HorizontalOptions="Center" />
+
+        <!-- Usuario -->
+        <Entry x:Name="UsuarioEntry"
+               Placeholder="Usuario" />
+
+        <!-- Contraseña -->
+        <Entry x:Name="PasswordEntry"
+               Placeholder="Contraseña"
+               IsPassword="True" />
+
+        <!-- Botón iniciar sesión -->
+        <Button Text="Iniciar Sesión"
+                Clicked="OnLoginClicked" />
+
+    </VerticalStackLayout>
+</ContentPage>

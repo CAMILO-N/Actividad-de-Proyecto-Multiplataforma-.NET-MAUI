@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|c:\\users\\camol\\desktop\\campuslinkudla\\mobil\\appempresarial\\appempresarial\\clientespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|solutionrelative:appempresarial\\clientespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|c:\\users\\camol\\desktop\\campuslinkudla\\mobil\\appempresarial\\appempresarial\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|solutionrelative:appempresarial\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|c:\\users\\camol\\desktop\\campuslinkudla\\mobil\\appempresarial\\appempresarial\\clientespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|solutionrelative:appempresarial\\clientespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|c:\\users\\camol\\desktop\\campuslinkudla\\mobil\\appempresarial\\appempresarial\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|solutionrelative:appempresarial\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|c:\\users\\camol\\desktop\\campuslinkudla\\mobil\\appempresarial\\appempresarial\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|solutionrelative:appempresarial\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|c:\\users\\camol\\desktop\\campuslinkudla\\mobil\\appempresarial\\appempresarial\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|solutionrelative:appempresarial\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|c:\\users\\camol\\desktop\\campuslinkudla\\mobil\\appempresarial\\appempresarial\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|solutionrelative:appempresarial\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|c:\\users\\camol\\desktop\\campuslinkudla\\mobil\\appempresarial\\appempresarial\\stockpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|solutionrelative:appempresarial\\stockpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|c:\\users\\camol\\desktop\\campuslinkudla\\mobil\\appempresarial\\appempresarial\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|solutionrelative:appempresarial\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|c:\\users\\camol\\desktop\\campuslinkudla\\mobil\\appempresarial\\appempresarial\\appempresarial.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|solutionrelative:appempresarial\\appempresarial.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|c:\\users\\camol\\desktop\\campuslinkudla\\mobil\\appempresarial\\appempresarial\\stockpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|solutionrelative:appempresarial\\stockpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|c:\\users\\camol\\desktop\\campuslinkudla\\mobil\\appempresarial\\appempresarial\\ventaspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|solutionrelative:appempresarial\\ventaspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|c:\\users\\camol\\desktop\\campuslinkudla\\mobil\\appempresarial\\appempresarial\\ventaspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|solutionrelative:appempresarial\\ventaspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|c:\\users\\camol\\desktop\\campuslinkudla\\mobil\\appempresarial\\appempresarial\\productospage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|solutionrelative:appempresarial\\productospage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|c:\\users\\camol\\desktop\\campuslinkudla\\mobil\\appempresarial\\appempresarial\\productospage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|solutionrelative:appempresarial\\productospage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|c:\\users\\camol\\desktop\\campuslinkudla\\mobil\\appempresarial\\appempresarial\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|solutionrelative:appempresarial\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|c:\\users\\camol\\desktop\\campuslinkudla\\mobil\\appempresarial\\appempresarial\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|solutionrelative:appempresarial\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|c:\\users\\camol\\desktop\\campuslinkudla\\mobil\\appempresarial\\appempresarial\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|solutionrelative:appempresarial\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|c:\\users\\camol\\desktop\\campuslinkudla\\mobil\\appempresarial\\appempresarial\\models\\stockitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|solutionrelative:appempresarial\\models\\stockitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|c:\\users\\camol\\desktop\\campuslinkudla\\mobil\\appempresarial\\appempresarial\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|solutionrelative:appempresarial\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|c:\\users\\camol\\desktop\\campuslinkudla\\mobil\\appempresarial\\appempresarial\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|solutionrelative:appempresarial\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|c:\\users\\camol\\desktop\\campuslinkudla\\mobil\\appempresarial\\appempresarial\\models\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94B9004-A45D-402D-9A1A-41B71BE60639}|AppEmpresarial\\AppEmpresarial.csproj|solutionrelative:appempresarial\\models\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "AppEmpresarial\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\MauiProgram.cs",
+              "RelativeToolTip": "AppEmpresarial\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T22:51:47.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StockPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\StockPage.xaml.cs",
+              "RelativeDocumentMoniker": "AppEmpresarial\\StockPage.xaml.cs",
+              "ToolTip": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\StockPage.xaml.cs",
+              "RelativeToolTip": "AppEmpresarial\\StockPage.xaml.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwBEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T22:47:27.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StockPage.xaml",
+              "DocumentMoniker": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\StockPage.xaml",
+              "RelativeDocumentMoniker": "AppEmpresarial\\StockPage.xaml",
+              "ToolTip": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\StockPage.xaml",
+              "RelativeToolTip": "AppEmpresarial\\StockPage.xaml",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAcwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-06T22:47:17.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VentasPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\VentasPage.xaml.cs",
+              "RelativeDocumentMoniker": "AppEmpresarial\\VentasPage.xaml.cs",
+              "ToolTip": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\VentasPage.xaml.cs",
+              "RelativeToolTip": "AppEmpresarial\\VentasPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T22:45:35.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VentasPage.xaml",
+              "DocumentMoniker": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\VentasPage.xaml",
+              "RelativeDocumentMoniker": "AppEmpresarial\\VentasPage.xaml",
+              "ToolTip": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\VentasPage.xaml",
+              "RelativeToolTip": "AppEmpresarial\\VentasPage.xaml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-06T22:45:26.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\ClientesPage.xaml.cs",
+              "RelativeDocumentMoniker": "AppEmpresarial\\ClientesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\ClientesPage.xaml.cs",
+              "RelativeToolTip": "AppEmpresarial\\ClientesPage.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T22:42:29.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\ClientesPage.xaml",
+              "RelativeDocumentMoniker": "AppEmpresarial\\ClientesPage.xaml",
+              "ToolTip": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\ClientesPage.xaml",
+              "RelativeToolTip": "AppEmpresarial\\ClientesPage.xaml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-06T22:42:14.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductosPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\ProductosPage.xaml.cs",
+              "RelativeDocumentMoniker": "AppEmpresarial\\ProductosPage.xaml.cs",
+              "ToolTip": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\ProductosPage.xaml.cs",
+              "RelativeToolTip": "AppEmpresarial\\ProductosPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T22:41:33.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductosPage.xaml",
+              "DocumentMoniker": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\ProductosPage.xaml",
+              "RelativeDocumentMoniker": "AppEmpresarial\\ProductosPage.xaml",
+              "ToolTip": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\ProductosPage.xaml",
+              "RelativeToolTip": "AppEmpresarial\\ProductosPage.xaml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-06T22:41:17.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\App.xaml.cs",
+              "RelativeDocumentMoniker": "AppEmpresarial\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\App.xaml.cs",
+              "RelativeToolTip": "AppEmpresarial\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T22:39:51.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\Pages\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "AppEmpresarial\\Pages\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\Pages\\MainPage.xaml.cs",
+              "RelativeToolTip": "AppEmpresarial\\Pages\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T22:32:34.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\Pages\\MainPage.xaml",
+              "RelativeDocumentMoniker": "AppEmpresarial\\Pages\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\Pages\\MainPage.xaml",
+              "RelativeToolTip": "AppEmpresarial\\Pages\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-06T22:32:20.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\Pages\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "AppEmpresarial\\Pages\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\Pages\\LoginPage.xaml.cs",
+              "RelativeToolTip": "AppEmpresarial\\Pages\\LoginPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T22:31:26.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\Pages\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "AppEmpresarial\\Pages\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\Pages\\LoginPage.xaml",
+              "RelativeToolTip": "AppEmpresarial\\Pages\\LoginPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-06T22:31:17.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StockItem.cs",
+              "DocumentMoniker": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\Models\\StockItem.cs",
+              "RelativeDocumentMoniker": "AppEmpresarial\\Models\\StockItem.cs",
+              "ToolTip": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\Models\\StockItem.cs",
+              "RelativeToolTip": "AppEmpresarial\\Models\\StockItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T22:26:32.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\Models\\Venta.cs",
+              "RelativeDocumentMoniker": "AppEmpresarial\\Models\\Venta.cs",
+              "ToolTip": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\Models\\Venta.cs",
+              "RelativeToolTip": "AppEmpresarial\\Models\\Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T22:26:05.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "AppEmpresarial\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\Models\\Cliente.cs",
+              "RelativeToolTip": "AppEmpresarial\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T22:25:42.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "AppEmpresarial\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\Models\\Producto.cs",
+              "RelativeToolTip": "AppEmpresarial\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T22:25:11.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "AppEmpresarial\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\Models\\Usuario.cs",
+              "RelativeToolTip": "AppEmpresarial\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAASwAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T22:24:46.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\Models\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "AppEmpresarial\\Models\\DatabaseService.cs",
+              "ToolTip": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\Models\\DatabaseService.cs",
+              "RelativeToolTip": "AppEmpresarial\\Models\\DatabaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T22:24:03.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppEmpresarial",
+              "DocumentMoniker": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\AppEmpresarial.csproj",
+              "RelativeDocumentMoniker": "AppEmpresarial\\AppEmpresarial.csproj",
+              "ToolTip": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\AppEmpresarial.csproj",
+              "RelativeToolTip": "AppEmpresarial\\AppEmpresarial.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-06T22:22:30.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\App.xaml",
+              "RelativeDocumentMoniker": "AppEmpresarial\\App.xaml",
+              "ToolTip": "C:\\Users\\CAMOL\\Desktop\\CampusLinkUDLA\\mobil\\AppEmpresarial\\AppEmpresarial\\App.xaml",
+              "RelativeToolTip": "AppEmpresarial\\App.xaml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-06T22:20:55.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

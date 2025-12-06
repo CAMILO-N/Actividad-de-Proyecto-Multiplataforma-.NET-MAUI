@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppEmpresarial.ClientesPage"
+             Title="Clientes">
+
+    <VerticalStackLayout Padding="20" Spacing="15">
+
+        <Entry x:Name="NombreEntry"
+               Placeholder="Nombre del cliente" />
+
+        <Entry x:Name="EmailEntry"
+               Placeholder="Correo electrónico" />
+
+        <Button Text="Agregar Cliente"
+                Clicked="AgregarCliente" />
+
+        <CollectionView x:Name="ClientesList">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <SwipeView>
+
+                        <SwipeView.RightItems>
+                            <SwipeItems>
+                                <SwipeItem Text="Eliminar"
+                                           BackgroundColor="Red"
+                                           Invoked="EliminarCliente" />
+                            </SwipeItems>
+                        </SwipeView.RightItems>
+
+                        <Grid Padding="10">
+                            <VerticalStackLayout>
+                                <Label Text="{Binding Nombre}" FontSize="18"/>
+                                <Label Text="{Binding Email}" FontSize="14" TextColor="Gray"/>
+                            </VerticalStackLayout>
+                        </Grid>
+
+                    </SwipeView>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+    </VerticalStackLayout>
+</ContentPage>
