@@ -24,7 +24,7 @@ manejar navegación y trabajar con SQLite en aplicaciones multiplataforma.
 <ul>
   <li>Pantalla de Login con validación en SQLite</li>
   <li>Pantalla principal con navegación hacia los módulos</li>
-  <li>Módulos CRUD completos:
+  <li>Módulos completos:
     <ul>
       <li>Productos</li>
       <li>Clientes</li>
@@ -72,7 +72,7 @@ Contraseña: 1234
 
 <h2>Módulos de Gestión</h2>
 
-<p>Cada módulo cuenta con su propio XAML y archivo .cs con operaciones CRUD conectadas a SQLite.</p>
+<p>Cada módulo cuenta con su propio XAML y archivo .cs con operaciones conectadas a SQLite.</p>
 
 <h3>Productos</h3>
 <ul>
@@ -185,7 +185,7 @@ Este proyecto se desarrolló con fines educativos para practicar:
   <li>Navegación en MAUI</li>
   <li>Manejo de SQLite</li>
   <li>Construcción de interfaces con XAML</li>
-  <li>Operaciones CRUD básicas</li>
+  <li>Operaciones básicas</li>
   <li>Estructuración simple sin patrones avanzados</li>
 </ul>
 
